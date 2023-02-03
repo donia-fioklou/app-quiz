@@ -1,4 +1,4 @@
-# Application de quiz informatique
+# computer quiz app
 
 A new Flutter project.
 
